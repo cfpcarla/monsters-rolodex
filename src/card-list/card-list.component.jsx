@@ -4,7 +4,7 @@ import './card-list.styles.css'
 
  export const CardList = (props) => {
 
-    return <div className= 'card-list'> {props.children} </div>
+    return <div className= 'card-list'> {
+        props.monsters.map(monsters => <h1 key={monsters.id}> {monsters.name} </h1>)
+      } </div>
  }
-
-//  export default CardList;

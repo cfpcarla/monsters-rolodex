@@ -3,8 +3,8 @@ Monsters Rolodex is a fun web aplication for see the name and email of the monst
 
 You can access the project hosted in the web by [clicking here]()
 
-![initial page](images/initial-page.png)
-![filter](images/filter.png)
+![initial page](./src/images/initial-page.png)
+![filter](./src/images/filter.png)
 
 
  ## Technologies

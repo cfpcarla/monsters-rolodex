@@ -2,6 +2,7 @@ import '../src/App.css';
 import { Component } from 'react';
 import { CardList } from '../src/card-list/card-list.component.jsx'
 
+
 class App extends Component {
   constructor() {
     super();
@@ -22,8 +23,8 @@ componentDidMount() {
       <div className="App">
       <CardList monsters={this.state.monsters}/> 
       </div>
-    )
-  };
+    );
+  }
 }
 export default App;
 

@@ -3,8 +3,8 @@ Monsters Rolodex is a fun web aplication for see the name and email of the monst
 
 You can access the project hosted in the web by [clicking here]()
 
-![initial page]()
-![filter]()
+![initial page](images/initial-page.png)
+![filter](images/filter.png)
 
 
  ## Technologies
@@ -15,5 +15,6 @@ You can access the project hosted in the web by [clicking here]()
 
 
 # Getting Started
+
 
 Open the `TERMINAL` and type `npm install` and then `npm start`.
